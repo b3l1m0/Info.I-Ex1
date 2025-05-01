@@ -1,5 +1,5 @@
 # Info.I-Ex2
-C++ scripts for Exercise 1 of the Informatik I Lecture of the first semester of my B.Sc. Chemical Engineering
+C++ scripts for Exercise 2 of the Informatik I Lecture of the first semester of my B.Sc. Chemical Engineering
 
 
 ex2A: small C++ program relying on the ideal-gas law that writes a table of values for the pressure of one mole of gas as a function of its volume at a given reference temperature 
